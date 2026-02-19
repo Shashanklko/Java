@@ -20,3 +20,4 @@ public class Equilibrium_array {
     System.out.println(equilibrium_array(arr));
   } 
 }
+
